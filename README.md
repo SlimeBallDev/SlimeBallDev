@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SlimeBallDev
+- 👋 Hi, I’m @SlimeBallTheDev
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate on anything with Java code
